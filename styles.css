@@ -1,0 +1,42 @@
+/* add your CSS here */
+#interesting{
+    font-style: italic;
+    padding-left:1em;
+}
+body{
+    border: 1px solid gray;
+    width: 300px;
+    box-shadow: 7px 7px lightgrey;
+    padding: 1em;
+}
+.divbox{
+    border: 1px solid gray;
+    width: 300px;
+}
+img{
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+ul{
+    list-style-type: none;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+#description{
+    padding-left: 1em;
+    padding-right: 1em;
+}
+h3{ 
+    font-size:40px; 
+    color: #000000;  
+    font-family: 'Rancho', serif;
+    padding: 0em;
+    margin: 0em;
+}
+.white{
+    background-color: white;
+}
+.lightblue{
+    background-color: lightblue;
+    background-clip: padding-box;
+}
